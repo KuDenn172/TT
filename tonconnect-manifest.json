@@ -4,11 +4,5 @@
   "iconUrl": "https://ton.vote/logo.png",
   "termsOfUseUrl": "https://ton.vote/terms",
   "privacyPolicyUrl": "https://ton.vote/privacy",
-  "version": "0.1.0",
-  "items": [
-    {
-      "name": "ton_addr",
-      "address": "EQBvW8Z5huBkMJYdnfAEM5JqTNkuWX3diqYENkWsIL0XggGG"
-    }
-  ]
+  "version": "0.1.0"
 }
